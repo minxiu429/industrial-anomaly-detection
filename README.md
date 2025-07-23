@@ -1,1 +1,1 @@
-# jinminxiu
+# industrial-anomaly-detection
